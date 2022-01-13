@@ -1,5 +1,5 @@
 ---
-title: "Syntax Highlighting"
+title: "First to Programming"
 metaTitle: "Syntax Highlighting is the meta title tag for this page"
 metaDescription: "This is the meta description for this page"
 ---
@@ -11,7 +11,7 @@ import React from 'react';
 ```
 
 Supports multiple languages.
-[An Internal Link to a Section Heading](/codeblock/1-index)
+[An Internal Link to a Section Heading](/firsttoprogramming/1-index)
 
 The following is a code block with diff. Lines with `+` highlighted in green shade indicating an addition. Lines with `-` highlighted in red shade indicating a deletion.
 

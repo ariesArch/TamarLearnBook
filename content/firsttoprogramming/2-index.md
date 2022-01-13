@@ -1,17 +1,16 @@
 ---
-title: "Syntax Highlighting"
+title: "Chapter-2"
 metaTitle: "Syntax Highlighting is the meta title tag for this page"
 metaDescription: "This is the meta description for this page"
 ---
 
-The following is a code block with JavaScript language syntax highlighting.
+The following is a second code block with JavaScript language syntax highlighting.
 
 ```javascript
 import React from 'react';
 ```
 
 Supports multiple languages.
-[An Internal Link to a Section Heading](/codeblock/1-index)
 
 The following is a code block with diff. Lines with `+` highlighted in green shade indicating an addition. Lines with `-` highlighted in red shade indicating a deletion.
 
